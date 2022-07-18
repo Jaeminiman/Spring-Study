@@ -3,8 +3,7 @@
 
 
 ## 깃헙 사용법  
-https://www.notion.so/Github-Desktop-f5447c2c0900449092532a1d35e4a50e
-
+https://abundant-route-78e.notion.site/GitHub-Desktop-bfeded58e7e64b0fb71c777dca8e640e
 ## 커리큘럼 안내  
 
 ### <07.25>  
