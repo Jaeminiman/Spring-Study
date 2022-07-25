@@ -14,10 +14,12 @@ https://abundant-route-78e.notion.site/GitHub-Desktop-bfeded58e7e64b0fb71c777dca
 ### <08.01>  
 <INFLEARN> 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술  
 https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8  
-
-03장. 스프링 부트에서 JPA로 데이터베이스 다뤄보자  
-04장. 머스테치로 화면 구성하기  
-05장. 스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기  
+- sec 1~4 (제민)
+- sec 5~7 (지수)  
+  
+03장. 스프링 부트에서 JPA로 데이터베이스 다뤄보자 (예린)  
+04장. 머스테치로 화면 구성하기 (상훈)  
+05장. 스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기 (인렬)  
 
 ### <08.08>  
   
