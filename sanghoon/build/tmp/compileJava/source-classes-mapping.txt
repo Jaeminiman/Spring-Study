@@ -1,2 +1,0 @@
-com/jojoldu/book/Main.java
- com.jojoldu.book.Main
