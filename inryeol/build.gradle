@@ -49,7 +49,7 @@ dependencies {
     implementation 'org.springframework.session:spring-session-jdbc'
 
     // 5.7장
-    implementation 'org.springframework.session:spring-security-test'
+    testImplementation 'org.springframework.security:spring-security-test'
 
 }
 

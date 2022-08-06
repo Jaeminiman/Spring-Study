@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 // 2.1장
 @SpringBootApplication
-@EnableJpaAuditing /* 3.5장에서 어노테이션 추가*/
+// @EnableJpaAuditing /* 5.7장에서 삭제 */
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
