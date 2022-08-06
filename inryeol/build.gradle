@@ -42,6 +42,15 @@ dependencies {
     // 4.2장
     implementation 'org.springframework.boot:spring-boot-starter-mustache'
 
+    // 5.3장
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+
+    // 5.5장
+    implementation 'org.springframework.session:spring-session-jdbc'
+
+    // 5.7장
+    implementation 'org.springframework.session:spring-security-test'
+
 }
 
 test {

@@ -19,6 +19,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.List; // 직접입력
 import static org.assertj.core.api.Assertions.assertThat; // 직접입력
+import org.springframework.http.MediaType; // 직접입력, 5.7장
 
 
 // 3.4장 등록 파트 마지막
@@ -39,7 +40,13 @@ public class PostsApiControllerTest {
         postsRepository.deleteAll();
     }
 
+    /* 5.7장 추가 */
+
+    /* 5.7장 추가 */
+
+
     @Test
+    @WithMockUser(roles="USER") /* 5.7장 추가 */
     public void upload_posts() throws Exception {
         //given
         String title = "title";
@@ -66,6 +73,7 @@ public class PostsApiControllerTest {
 
 // 3.4장 수정 & 삭제 테스트 파트
     @Test
+    @WithMockUser(roles="USER") /* 5.7장 추가 */
     public void change_posts() throws Exception {
         //given
         Posts savedPosts = postsRepository.save(Posts.builder()

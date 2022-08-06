@@ -1,6 +1,8 @@
 package org.example.web;
 
 import lombok.RequiredArgsConstructor;
+import org.example.config.auth.LoginUser;
+import org.example.config.auth.dto.SessionUser;
 import org.example.service.posts.PostsService;
 import org.example.web.dto.PostsResponseDto;
 import org.springframework.stereotype.Controller;
@@ -15,8 +17,11 @@ public class IndexController {
     private final PostsService postsService; // 4.4장에서 추가
 
     @GetMapping("/")
-    public String index(Model model) { // 4.4장 추가
+    public String index(Model model, @LoginUser SessionUser user) { /* 4.4장 추가, 5.4장 추가 */
         model.addAttribute("posts", postsService.findAllDesc()); // 4.4장 추가
+        if (user != null) {
+            model.addAttribute("userName", user.getName());
+        } // 5.4장 추가
         return "index";
     }
 
