@@ -30,11 +30,14 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%
 08장. EC2 서버에 프로젝트를 배포해 보자  (예린)  
 
 ### <08.15>  
-09장. 코드가 푸시되면 자동으로 배포해 보자 - Travis CI 배포 자동화  
-10장. 24시간 365일 중단 없는 서비스를 만들자 
+09장. 코드가 푸시되면 자동으로 배포해 보자 - Travis CI 배포 자동화 (제민)  
+10장. 24시간 365일 중단 없는 서비스를 만들자 (인렬). 
  
-<INFLERAN> 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발  
-https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1  
+<INFLERAN> 스프링 핵심 원리 기본편. 
+https://www.inflearn.com/course/스프링-핵심-원리-기본편/dashboard. 
+- sec 1 (예린). 
+- sec 2 (지수). 
+- sec 3 (상훈). 
 
 ### <08.22>  
 <INFLERAN> 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발  
