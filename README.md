@@ -39,7 +39,7 @@ https://www.inflearn.com/course/스프링-핵심-원리-기본편/dashboard.
 - sec 2 (지수). 
 - sec 3 (상훈). 
 
-### <08.22>  
+### <08.29>  
 <INFLERAN> 스프링 핵심 원리 기본편. 
 https://www.inflearn.com/course/스프링-핵심-원리-기본편/dashboard.  
 - sec 4 (제민)  
